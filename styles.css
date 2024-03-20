@@ -1,0 +1,31 @@
+body, ul, li, h1, h2, h3, a, img {
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    display: block;
+}
+
+header {
+    text-align: -webkit-center;
+}
+
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+
+main {
+    background-color: rgb(224, 221, 221);
+    padding: 10px;
+}
+
+.footer {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.b1 {
+    margin: 10px;
+}
