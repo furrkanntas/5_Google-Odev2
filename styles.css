@@ -21,11 +21,23 @@ main {
 }
 
 .footer {
-    background-color: red;
     display: flex;
     justify-content: center;
 }
 
+li {
+    display: inline-block;
+}
+
+a {
+    display: inline-block;
+}
+
 .b1 {
+    background-color: aqua;
     margin: 10px;
+}
+
+footer {
+    text-align: center;
 }
